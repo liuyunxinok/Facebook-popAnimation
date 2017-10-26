@@ -1,0 +1,19 @@
+//
+//  popAnimation.pch
+//  popAnimationStudyDemo
+//
+//  Created by liuyunxin on 2017/10/26.
+//  Copyright © 2017年 liuyunxin. All rights reserved.
+//
+
+#ifndef popAnimation_pch
+#define popAnimation_pch
+
+#import "UIView+Edge.h"
+#import <POP.h>
+
+#define SCREEN_W  [UIScreen mainScreen].bounds.size.width
+#define SCREEN_H  [UIScreen mainScreen].bounds.size.height
+
+
+#endif /* popAnimation_pch */
